@@ -25,7 +25,7 @@ const popup = L.popup({
     className:'map-popup',
     minWidth: 240,
     minHeight: 240
-}).setContent('Abrigo Tia Júlia <a href="orphanages.html?id=1" class="choose-orphanage"><img src="./public/images/arrow-white.svg"></a>')
+}).setContent('Abrigo Tia Júlia <a href="orphanage.html?id=1" class="choose-orphanage"><img src="./public/images/arrow-white.svg"></a>')
 
 // Criando o marcador
 L
