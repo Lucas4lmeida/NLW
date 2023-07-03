@@ -59,3 +59,17 @@ function deleteField(event) {
     const span = event.currentTarget;
     
 }
+
+// Selecionar Sim ou Não
+
+function toggleSelect(event) {
+    document.querySelectorAll('.button-select button')
+    .forEach(button => button.classList.remove('active'));
+
+    const button = event.currentTarget;
+    button.classList.add('active')
+
+    const input = document.querySelector('[name="open_on_weekends"]')
+    input.value = button.dataset.value
+    
+}
