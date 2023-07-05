@@ -9,6 +9,7 @@ module.exports = [
     instructions: "Para visitar a instituição, entre em contato pelo telefone 85-3101-6125, e marque uma vista com Luiza Helena dos Santos Paiva.",
     opening_hours: "Com agendamento prévio",
     open_on_weekends: "1",
+    
     image: [
         "https://lh3.googleusercontent.com/p/AF1QipM4PI9JJSXvKKbMhzDf_zfiHIEuVAVzPOzNqjl3=s680-w680-h510",
         "https://www.ceara.gov.br/wp-content/uploads/2019/05/DJF8969_%C2%A9-Drawlio-Joca.jpg",
